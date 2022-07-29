@@ -43,7 +43,7 @@
                                                                                                                          
 <div>
     <h2> Professional Experience 💼</h3>
-   <img width="40" height="40" alt="Anglo American" src="https://img2.gratispng.com/20180529/iau/kisspng-anglo-american-plc-mining-quellaveco-mine-company-america-5b0dc00ddc57e6.2785247515276277899025.jpg" />
+   <img width="80" height="40" alt="Anglo American" src="https://img2.gratispng.com/20180529/iau/kisspng-anglo-american-plc-mining-quellaveco-mine-company-america-5b0dc00ddc57e6.2785247515276277899025.jpg" />
  </div>
                                                                                                                          
                                                                                                                          
