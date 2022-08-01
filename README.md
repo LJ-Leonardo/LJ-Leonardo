@@ -18,7 +18,7 @@
   
 <hr/>
 
-![snake gif](https://github.com/LJ-Leonardo/LJ-Leonardo/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/LJ-Leonardo/LJ-Leonardo/blob/output/github-contribution-grid-snakegame.svg)
   
 <hr/>
   
