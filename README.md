@@ -18,8 +18,10 @@
   
 <hr/>
 
-![snake gif](https://github.com/LJ-Leonardo/LJ-Leonardo/blob/output/dist/github-contribution-grid-snake.gif)
-  
+<div>
+![snake gif](https://github.com/LJ-Leonardo/LJ-Leonardo/blob/output/dist/github-contribution-grid-snake.svg)
+</div>
+
 <hr/>
   
 <div>
