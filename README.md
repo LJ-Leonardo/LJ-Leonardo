@@ -30,7 +30,7 @@
   <img width="40" height="40" alt="Html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="40" height="40" alt="Css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img width="40" height="40" alt="Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img width="40" height="40" alt="Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />                                                                                                                            
+  <img width="40" height="40" alt="Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />                                                                                                                            
 </div>
   
 <hr/>
@@ -39,7 +39,9 @@
   <h2> Habilities ⚔️</h2>
   <h3> Languages </h3>
   <img width="40" height="40" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  
+  <img width="40" height="40" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img width="40" height="40" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />                                                                                                                               
+                                                                                                                                 
   
   <h3> Database 💖 </h3>
   <img width="40" height="40" alt="MySql" src="http://www.fullcopyconvert.com.br/wp/wp-content/uploads/2017/08/mysql.jpg" />
