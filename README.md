@@ -44,7 +44,7 @@
                                                                                                                                  
   
   <h3> Database 💖 </h3>
-  <img width="40" height="40" alt="MySql" src="http://www.fullcopyconvert.com.br/wp/wp-content/uploads/2017/08/mysql.jpg" />
+  <img width="40" height="40" alt="MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
                                                                                                                          
 <div>
