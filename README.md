@@ -35,14 +35,13 @@
   <img width="40" height="40" alt="Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />                                                                                                                            
 </div>
 
-  <h2> Habilities ⚔️</h2>
-  <h3> Backend 👓 </h3>
+  <h2> Backend 👓 </h2>
   <img width="40" height="40" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img width="40" height="40" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img width="40" height="40" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />                                                                                                                               
                                                                                                                                  
   
-  <h3> Database 💖 </h3>
+  <h2> Database 💖 </h2>
   <img width="40" height="40" alt="MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
                                                                                                                          
