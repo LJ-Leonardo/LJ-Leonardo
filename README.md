@@ -26,18 +26,17 @@
 <hr/>
   
 <div>
-  <h2> Frontend technologies who I'm learning 🚀</h2>
+
+<div>
+  <h2> Frontend 🚀</h2>
   <img width="40" height="40" alt="Html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="40" height="40" alt="Css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img width="40" height="40" alt="Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width="40" height="40" alt="Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />                                                                                                                            
 </div>
-  
-<hr/>
-  
-<div>
+
   <h2> Habilities ⚔️</h2>
-  <h3> Languages </h3>
+  <h3> Backend 👓 </h3>
   <img width="40" height="40" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img width="40" height="40" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img width="40" height="40" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />                                                                                                                               
