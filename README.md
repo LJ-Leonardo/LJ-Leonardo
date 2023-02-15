@@ -30,6 +30,7 @@
   <img width="40" height="40" alt="Html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="40" height="40" alt="Css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img width="40" height="40" alt="Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width="40" height="40" alt="Js" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nicepng.com%2Fourpic%2Fu2q8i1i1u2w7u2r5_bootstrap-bootstrap-4-icon-png%2F&psig=AOvVaw2ZJ7gDZXhvbTXGjZRh7I_j&ust=1676506530127000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCND8w9Kflv0CFQAAAAAdAAAAABAF)" />                                                                                                                            
 </div>
   
 <hr/>
