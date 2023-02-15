@@ -30,7 +30,7 @@
   <img width="40" height="40" alt="Html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="40" height="40" alt="Css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img width="40" height="40" alt="Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img width="40" height="40" alt="Js" src="https://www.nicepng.com/maxp/u2q8i1i1u2w7u2r5/" />                                                                                                                            
+  <img width="40" height="40" alt="Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />                                                                                                                            
 </div>
   
 <hr/>
