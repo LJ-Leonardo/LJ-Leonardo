@@ -1,7 +1,7 @@
 <div>
   <h1> Hello, World! I'm Leonardo 🖖🏻</h1>
   <ul type="circle">
-    <li> <h3> 19 years old 👨🏾‍💻👨🏾‍💼</h3> </li>
+    <li> <h3> 20 years old 👨🏾‍💻👨🏾‍💼</h3> </li>
     <li> <h3> Belo Horizonte/MG 🏡 </h3></li>
     <li> <h3> Studying Tech. Information Systems in PUC-MG and working in Anglo American 🤖 </h3> </li>
     <li> <h3> Trainee in Anglo American 🤓</h3></li>
