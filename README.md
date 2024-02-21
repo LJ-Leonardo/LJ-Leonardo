@@ -34,6 +34,7 @@
 <div>
     <h2> Professional Experience 💼</h3>
    <img width="40" height="40" alt="Anglo American" src="https://companieslogo.com/img/orig/AAL.L-32934a3d.png" />
+   <img width="40" height="40" alt="Araujo Drugstore" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fdrogariaaraujo%2F&psig=AOvVaw18zXGmVnU_OD0z5W8IqJVg&ust=1708613653296000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOD_uJHYvIQDFQAAAAAdAAAAABAg" />
  </div>
                                                                                                                          
                                                                                                                          
